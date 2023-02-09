@@ -1,0 +1,2 @@
+def taylor(angulo):
+    
